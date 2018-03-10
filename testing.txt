@@ -1,0 +1,32 @@
+github setup :
+http://tech-marsw.logdown.com/blog/2013/08/16/git-notes-github
+
+github desktop:
+https://www.jianshu.com/p/a6fc842f501d
+
+Git ??
+https://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
+
+Git Cheat-Sheet
+https://github.com/flyhigher139/Git-Cheat-Sheet
+
+Git 簡易使用教學
+https://coderwall.com/p/yl1-ug/git--2
+
+MEAN stack
+mean.io/
+
+使用MEAN框架构建web app！
+https://www.gitbook.com/book/chihungfei/meanapp/details
+
+A simple todo API made with NodeJS, ExpressJS and MongoDB
+https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
+https://github.com/nomanHasan/todo-api
+https://medium.com/@nomanbinhussein/mean-app-tutorial-with-angular-4-part-2-4250522c845
+https://github.com/nomanHasan/todoapp-angular
+
+MEAN Stack (Angular 5) CRUD Web Application Example
+https://www.djamware.com/post/5a0673c880aca7739224ee21/mean-stack-angular-5-crud-web-application-example
+
+Twitter angular4
+https://nirgn975.gitbooks.io/build-a-web-app-with-angular-and-api-star/content/chapter2/21-new-angular-app.html
